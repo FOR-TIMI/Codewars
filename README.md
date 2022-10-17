@@ -17,6 +17,8 @@ It's a cool website where you solve coding challenges and you level up in rank d
 - [Spin Words](https://github.com/FOR-TIMI/Codewars/blob/main/js/spinWords.js)
 - [Take a Ten Munites Walk](https://github.com/FOR-TIMI/Codewars/blob/main/js/validWalk.js)
 - [who likes it](https://github.com/FOR-TIMI/Codewars/blob/main/js/who%20likes%20it.js)
+- [ROT13 cipher](https://github.com/FOR-TIMI/Codewars/blob/main/js/Rot13%20cipher.js)
+- [Roman Numeral Converter](https://github.com/FOR-TIMI/Codewars/blob/main/js/Roman%20Numeral%20Converter.js)
 
 
 ## Contribution
