@@ -19,6 +19,8 @@ It's a cool website where you solve coding challenges and you level up in rank d
 - [who likes it](https://github.com/FOR-TIMI/Codewars/blob/main/js/who%20likes%20it.js)
 - [ROT13 cipher](https://github.com/FOR-TIMI/Codewars/blob/main/js/Rot13%20cipher.js)
 - [Roman Numeral Converter](https://github.com/FOR-TIMI/Codewars/blob/main/js/Roman%20Numeral%20Converter.js)
+- [Moving Zeros to end](https://github.com/FOR-TIMI/Codewars/blob/main/js/moveing%20zeros%20to%20end.js)
+- [Unique order](https://github.com/FOR-TIMI/Codewars/blob/main/js/uniqueOrder.js)
 
 
 ## Contribution
