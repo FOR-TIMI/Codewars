@@ -22,6 +22,7 @@ It's a cool website where you solve coding challenges and you level up in rank d
 - [Moving Zeros to end](https://github.com/FOR-TIMI/Codewars/blob/main/js/moving%20zeros%20to%20end.js)
 - [Unique order](https://github.com/FOR-TIMI/Codewars/blob/main/js/uniqueOrder.js)
 - [Binary search](https://github.com/FOR-TIMI/Codewars/blob/main/js/Binary%20search.js)
+- [Binary search Matrix](https://github.com/FOR-TIMI/Codewars/blob/main/js/Binary%20search%20matrix.js)
 
 ## Contribution
 Made with ❤️ by Timi
