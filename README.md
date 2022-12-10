@@ -15,6 +15,7 @@ It's a cool website where you solve coding challenges and you level up in rank d
 - [Find Anagrams](https://github.com/FOR-TIMI/Codewars/blob/main/js/findAnagrams.js)
 - [Perfect Square](https://github.com/FOR-TIMI/Codewars/blob/main/js/perfectSquare.js)
 - [Spin Words](https://github.com/FOR-TIMI/Codewars/blob/main/js/spinWords.js)
+- [Jaden Case](https://github.com/FOR-TIMI/Codewars/blob/main/js/JadenCase.js)
 - [Take a Ten Munites Walk](https://github.com/FOR-TIMI/Codewars/blob/main/js/validWalk.js)
 - [who likes it](https://github.com/FOR-TIMI/Codewars/blob/main/js/who%20likes%20it.js)
 - [ROT13 cipher](https://github.com/FOR-TIMI/Codewars/blob/main/js/Rot13%20cipher.js)
